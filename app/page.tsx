@@ -14,9 +14,9 @@ export default function HomePage() {
       <header className="border-b">
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
-            <h1 className="text-2xl font-bold">AudioStore</h1>
+            <h1 className="text-2xl font-bold">Garza Lawncare</h1>
             <Badge variant="secondary" className="text-sm">
-              Free Shipping
+              Mowing and Edging
             </Badge>
           </div>
         </div>
